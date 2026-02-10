@@ -76,7 +76,7 @@ pip install pandas numpy matplotlib seaborn
 jupyter notebook
 ```
 
-4. Run `Student_Performance_Analysis.ipynb`
+4. Run `student_analysis.ipynb`
 
 
 
